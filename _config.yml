@@ -8,6 +8,14 @@ gist:
 kramdown:
   math_engine: mathjax
   syntax_highlighter: rouge
+
+# theme variables
 remote-theme: pages-themes/minimal@v0.2.0
+
+# jekyll plugins
 plugins:
 - jekyll-remote-theme
+
+# site variables
+title: Peter Reyntjens
+description: Personal blog of Peter Reyntjens (work in progress)
